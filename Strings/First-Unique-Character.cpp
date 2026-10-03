@@ -8,6 +8,7 @@ public:
         // Counting frequency
         for (int i = 0; i < s.length(); i++) {
             freq[s[i]]++;
+            //here c++ converts the char like s to 115 ascii and then count those frequencies)
         }
 
         // Find first non-repeating character
