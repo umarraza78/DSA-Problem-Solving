@@ -1,2 +1,2 @@
 # DSA-Problem-Solving
-This repository contains problems and solutions of the problems related to DSA from leetcode
+This repository contains important problems and solutions of the problems related to DSA from leetcode
